@@ -1,5 +1,5 @@
 # Deep Learning Remote Sensing Image Classification Using Pretrained Networks
-PyTorch implementation of paper [Deep Learning Earth Observation Classification Using ImageNet Pretrained Networks](https://ieeexplore.ieee.org/document/7342907)
+Unofficial PyTorch implementation of paper [Deep Learning Earth Observation Classification Using ImageNet Pretrained Networks](https://ieeexplore.ieee.org/document/7342907)
 <img src="./workflow.png"/>
 ## Difference
 Due to the lack of Overfeat's PyTorch Pre-trained model, we replace Overfeat with AlexNet which has a very similar structure
